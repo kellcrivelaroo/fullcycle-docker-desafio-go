@@ -28,4 +28,4 @@ O objetivo deste desafio é criar uma imagem Docker que, ao ser executada, impri
 
 ## Links
 
-- Imagem Docker Hub: [https://hub.docker.com/r/kellcrivelaro/fullcycle]
+- Imagem Docker Hub: [kellcrivelaro/fullcycle](https://hub.docker.com/r/kellcrivelaro/fullcycle)
